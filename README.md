@@ -25,11 +25,6 @@
 
 
 
-### 🎯 Dashboard Home & Filters
-![Dashboard Overview](https://github.com/swathixx/startup-ecosystem-dashboard/assets/demo1.png)
-
-### 📊 Investment Forecast
-![Forecast with Prophet](https://github.com/swathixx/startup-ecosystem-dashboard/assets/demo2.png)._
 
 ---
 
